@@ -1,5 +1,5 @@
-#include <Arduino.h>
-#include <DHT.h>
+#include <Arduino.h>//
+#include <DHT.h> //////
 #include <WiFi.h>  
 #include <WiFiClient.h>  
 #include <ThingSpeak.h>
